@@ -1,0 +1,57 @@
+[
+   {
+    "id":1,
+    "name":"Apple iPhone 14 Pro Max",
+    "price":"750.36",
+    "image":"asset/i-phone-14-pro.jpg"
+   }, 
+   
+   {
+    "id":2,
+    "name":"Apple iPhone 15 Pro Max",
+    "price": "993.95",
+    "image":  "asset/i-phone15.jpg"
+   }, 
+   {
+    "id":3,
+    "name":"Samsung Galaxy S23",
+    "price":"950.00",
+    "image":"asset/s-23.jpg"
+   }, 
+   {
+    "id":4,
+    "name":"Apple iPhone 15",
+    "price":"893.56",
+    "image":"asset/i-phone15simp.jpg"
+   }, 
+   {
+    "id":5,
+    "name":"Samsung Galaxy S24",
+    "price": "1050.00",
+    "image":"asset/s-24-ultra.jpg"
+   }, 
+   {
+    "id":6,
+    "name":"OnePlus 12",
+    "price":"850.00",
+    "image":"asset/one-plus-12.jpg"
+   }, 
+   {
+    "id":7,
+    "name":"Google Pixel 8 Pro",
+    "price":" 1150.36",
+    "image":"asset/g-px-8pro.jpg"
+   }, 
+   {
+    "id":8,
+    "name":"Apple iPhone 14",
+    "price":" 750.25",
+    "image":"asset/i-phone-14.jpg"
+   }, 
+   {
+    "id":9,
+    "name":"Samsung Galaxy A32",
+    "price":"250",
+    "image":"asset/a-32.jpg"
+   }
+]
